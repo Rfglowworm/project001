@@ -97,4 +97,9 @@ public class TestLambda {
 
     }
 
+    @Test
+    public void TestAaaa(){
+        System.out.println("aaa");
+    }
+
 }
