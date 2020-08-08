@@ -100,6 +100,7 @@ public class TestLambda {
     @Test
     public void TestAaaa(){
         System.out.println("aaa");
+        System.out.println("分支添加");
     }
 
 }
